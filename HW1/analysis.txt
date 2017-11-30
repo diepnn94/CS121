@@ -1,0 +1,23 @@
+on openlab for .75 GB
+
+part1:
+	330 seconds ~ 5.5 mins
+part2:
+	697 seconds (.75GB and 1.5GB) ~ 11.6 mins
+	
+on openlab for 1.5 GB
+
+part1:
+	648 seconds ~ 10.8 mins
+part2:
+	1521 seconds (1.5 GB and 3 GB) ~ 24 mins
+
+
+on iMac for .75 GB
+part1:
+	115 seconds
+on iMac for 1.5 GB
+part1:
+	344 seconds	
+
+From the data above, the programs run in O(N).
